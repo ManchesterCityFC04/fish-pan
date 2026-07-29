@@ -1,0 +1,14 @@
+{
+  "change": "portfolio-positions",
+  "phase": "design",
+  "mode": "compact",
+  "canonical_spec": "openspec",
+  "generated_by": "comet-handoff.sh",
+  "context_hash": "b509329752af3629e3003ee716807c278fc3b21e41986cd8ef184e2db5087c5e",
+  "files": [
+    { "path": "openspec/changes/portfolio-positions/proposal.md", "sha256": "48f504bf07faaad7fa4f4eab8cbc0cd1c62498c88bbd5057ecf4a52aa05fe4a3" },
+    { "path": "openspec/changes/portfolio-positions/design.md", "sha256": "5ad8e682e1fac703a4dad0fc5babb597299c0f4d6ff7a58beea96b6460397bc5" },
+    { "path": "openspec/changes/portfolio-positions/tasks.md", "sha256": "ddaf1d352c015c901f1650142c6d9e02cb6b0f1f0a0429e5e9e4a104eafbeb05" },
+    { "path": "openspec/changes/portfolio-positions/specs/portfolio-positions/spec.md", "sha256": "2b03f36fe4a60bc21ab9a72b4961490c975cb4ea72f27fb8f8006274a2f70c6b" }
+  ]
+}

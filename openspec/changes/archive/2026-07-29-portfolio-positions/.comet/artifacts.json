@@ -1,0 +1,9 @@
+{
+  "openspec_proposal": "openspec/changes/portfolio-positions/proposal.md",
+  "openspec_design": "openspec/changes/portfolio-positions/design.md",
+  "openspec_tasks": "openspec/changes/portfolio-positions/tasks.md",
+  "openspec_delta_spec": "openspec/changes/portfolio-positions/specs/portfolio-positions/spec.md",
+  "handoff_context": "openspec/changes/portfolio-positions/.comet/handoff/design-context.json",
+  "handoff_markdown": "openspec/changes/portfolio-positions/.comet/handoff/design-context.md",
+  "archive_directory": "openspec/changes/archive/2026-07-29-portfolio-positions"
+}
