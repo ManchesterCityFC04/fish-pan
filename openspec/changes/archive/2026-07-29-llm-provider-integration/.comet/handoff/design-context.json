@@ -1,0 +1,14 @@
+{
+  "change": "llm-provider-integration",
+  "phase": "design",
+  "mode": "compact",
+  "canonical_spec": "openspec",
+  "generated_by": "comet-handoff.sh",
+  "context_hash": "ed1daf96a5f276c5b726c8c641102743eb423f42138cf2f54433414c9bb1a26c",
+  "files": [
+    { "path": "openspec/changes/llm-provider-integration/proposal.md", "sha256": "14adeb585c12b2af1d537c37ea3436535ef06ee3737e4992617d90d8d3039caf" },
+    { "path": "openspec/changes/llm-provider-integration/design.md", "sha256": "916f4a8a0f299578289871e4bdbe690b8eb6c6d18eb4f6cb5c20e5337f984960" },
+    { "path": "openspec/changes/llm-provider-integration/tasks.md", "sha256": "9301a0729b6d939ca9559e9498e0f94c6468b6c848d7a3fb16527782a28ff7a7" },
+    { "path": "openspec/changes/llm-provider-integration/specs/llm-provider-integration/spec.md", "sha256": "4955e7278a5e048432c84a14bf05cc19a9c28fcfdf8988eca2e6c39d349c7615" }
+  ]
+}
