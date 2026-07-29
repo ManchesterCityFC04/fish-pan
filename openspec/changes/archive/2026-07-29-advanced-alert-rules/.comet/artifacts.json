@@ -1,0 +1,9 @@
+{
+  "openspec_proposal": "openspec/changes/advanced-alert-rules/proposal.md",
+  "openspec_design": "openspec/changes/advanced-alert-rules/design.md",
+  "openspec_tasks": "openspec/changes/advanced-alert-rules/tasks.md",
+  "openspec_delta_spec": "openspec/changes/advanced-alert-rules/specs/advanced-alert-rules/spec.md",
+  "handoff_context": "openspec/changes/advanced-alert-rules/.comet/handoff/design-context.json",
+  "handoff_markdown": "openspec/changes/advanced-alert-rules/.comet/handoff/design-context.md",
+  "archive_directory": "openspec/changes/archive/2026-07-29-advanced-alert-rules"
+}

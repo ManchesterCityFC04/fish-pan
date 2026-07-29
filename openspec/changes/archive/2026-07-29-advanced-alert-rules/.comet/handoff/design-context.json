@@ -1,0 +1,14 @@
+{
+  "change": "advanced-alert-rules",
+  "phase": "design",
+  "mode": "compact",
+  "canonical_spec": "openspec",
+  "generated_by": "comet-handoff.sh",
+  "context_hash": "103f2ac0c991c3bc2fe567bc2fb982e116a63458c94233bb8e29bfa539c37c46",
+  "files": [
+    { "path": "openspec/changes/advanced-alert-rules/proposal.md", "sha256": "84598de12f462c598a11c597477fff87d26c4cad35f007863d397e1cdaab424c" },
+    { "path": "openspec/changes/advanced-alert-rules/design.md", "sha256": "9b93540ec4aec9c55079ed0fa31167f91dd267d3e6d27d0e57106d7b54c88272" },
+    { "path": "openspec/changes/advanced-alert-rules/tasks.md", "sha256": "30c86526146e4758f1afbb0f4004905679c3ce669a56c43d627eb07b84c5711d" },
+    { "path": "openspec/changes/advanced-alert-rules/specs/advanced-alert-rules/spec.md", "sha256": "8b37ac462bc3b64928dc2cee88543fae49e4c4a4a196a13c8a1d2e31b5cae337" }
+  ]
+}
