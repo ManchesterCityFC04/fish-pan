@@ -1,0 +1,14 @@
+{
+  "change": "market-data-engine",
+  "phase": "design",
+  "mode": "compact",
+  "canonical_spec": "openspec",
+  "generated_by": "comet-handoff.sh",
+  "context_hash": "206b8f8e364b7f603a51ee024a39a092032c162ec8abf506b478c924b519fa1d",
+  "files": [
+    { "path": "openspec/changes/market-data-engine/proposal.md", "sha256": "635abfe23bdf15895c437ef4790a58685b9e4ed2eaa758b39126b932bcc67e7b" },
+    { "path": "openspec/changes/market-data-engine/design.md", "sha256": "695da707f6de7176fb8b7aacd0e40f41875808023eb4636a683591587ab7558e" },
+    { "path": "openspec/changes/market-data-engine/tasks.md", "sha256": "84ee2f0ab332e7d0f2b642619cd3086680c379f168a87561b41c96aa2e697e21" },
+    { "path": "openspec/changes/market-data-engine/specs/market-data-engine/spec.md", "sha256": "cc4529b5153dd75fb7a4d09326abd9432594210d70f86fa9751ca8fb1335824b" }
+  ]
+}

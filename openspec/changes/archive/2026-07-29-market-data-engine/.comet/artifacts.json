@@ -1,0 +1,9 @@
+{
+  "openspec_proposal": "openspec/changes/market-data-engine/proposal.md",
+  "openspec_design": "openspec/changes/market-data-engine/design.md",
+  "openspec_tasks": "openspec/changes/market-data-engine/tasks.md",
+  "openspec_delta_spec": "openspec/changes/market-data-engine/specs/market-data-engine/spec.md",
+  "handoff_context": "openspec/changes/market-data-engine/.comet/handoff/design-context.json",
+  "handoff_markdown": "openspec/changes/market-data-engine/.comet/handoff/design-context.md",
+  "archive_directory": "openspec/changes/archive/2026-07-29-market-data-engine"
+}
