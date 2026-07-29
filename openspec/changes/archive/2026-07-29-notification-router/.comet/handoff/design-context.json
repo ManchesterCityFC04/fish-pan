@@ -1,0 +1,14 @@
+{
+  "change": "notification-router",
+  "phase": "design",
+  "mode": "compact",
+  "canonical_spec": "openspec",
+  "generated_by": "comet-handoff.sh",
+  "context_hash": "7911d99640cc9155a0d8c81bef93813aa3e5f57c656ad0d7f9363b23e2ed0429",
+  "files": [
+    { "path": "openspec/changes/notification-router/proposal.md", "sha256": "b0304fa0ae1ef4fe65f7dc6df83d6da1daf602d20480e87f1a742ab03c741b7a" },
+    { "path": "openspec/changes/notification-router/design.md", "sha256": "aa429fffa7989790a02d3ba543be489e17b67456f783249bcaee668f0e2d88f3" },
+    { "path": "openspec/changes/notification-router/tasks.md", "sha256": "f674779aee4a8403cf0e791da82e35f52038cf55ebda486b2dc6cbe0e839fdee" },
+    { "path": "openspec/changes/notification-router/specs/notification-router/spec.md", "sha256": "61b9b87fd316a90bd2295c19c799669ec18678d2478a2b19fea4b0adb8a4a0f2" }
+  ]
+}
