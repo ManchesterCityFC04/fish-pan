@@ -1,0 +1,14 @@
+{
+  "change": "market-news-events",
+  "phase": "design",
+  "mode": "compact",
+  "canonical_spec": "openspec",
+  "generated_by": "comet-handoff.sh",
+  "context_hash": "e117cfaa39dedc51d39e473bdf07f02ca5a9cea60f202f9701c3816404dd5fe1",
+  "files": [
+    { "path": "openspec/changes/market-news-events/proposal.md", "sha256": "1310d016ae17d57151e34fad76ac0f1427ac3c3fa325d3cc4cf71167c792e470" },
+    { "path": "openspec/changes/market-news-events/design.md", "sha256": "2dc3b8f9a1cc580deb1148e92f992ef474b8cdc4415b6aed4f6e5b79d635a7f3" },
+    { "path": "openspec/changes/market-news-events/tasks.md", "sha256": "d8677fc4dbd1b87a6be082fceb3e29f7a1f6c0a94f57b189d04eb28472297c7f" },
+    { "path": "openspec/changes/market-news-events/specs/market-news-events/spec.md", "sha256": "bd744ff8e5af766187a237258368cc0e92a308c859d558a985016cd9a1d0ba11" }
+  ]
+}

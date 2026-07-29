@@ -1,0 +1,9 @@
+{
+  "openspec_proposal": "openspec/changes/market-news-events/proposal.md",
+  "openspec_design": "openspec/changes/market-news-events/design.md",
+  "openspec_tasks": "openspec/changes/market-news-events/tasks.md",
+  "openspec_delta_spec": "openspec/changes/market-news-events/specs/market-news-events/spec.md",
+  "handoff_context": "openspec/changes/market-news-events/.comet/handoff/design-context.json",
+  "handoff_markdown": "openspec/changes/market-news-events/.comet/handoff/design-context.md",
+  "archive_directory": "openspec/changes/archive/2026-07-29-market-news-events"
+}
