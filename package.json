@@ -44,5 +44,6 @@
       "dist/**/*",
       "electron/**/*"
     ]
-  }
+  },
+  "allowScripts": {}
 }

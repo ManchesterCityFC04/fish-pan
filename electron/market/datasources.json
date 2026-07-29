@@ -1,0 +1,24 @@
+{
+  "kinds": {
+    "quote":        { "ttlMs": 1500,   "inFlightMs": 1500, "concurrency": 4 },
+    "kline":        { "ttlMs": 60000,  "inFlightMs": 2000, "concurrency": 2 },
+    "market":       { "ttlMs": 8000,   "inFlightMs": 1000, "concurrency": 1 },
+    "funds":        { "ttlMs": 15000,  "inFlightMs": 1000, "concurrency": 2 },
+    "news":         { "ttlMs": 600000, "inFlightMs": 1000, "concurrency": 2 },
+    "announcement": { "ttlMs": 1800000, "inFlightMs": 2000, "concurrency": 1 },
+    "flash":        { "ttlMs": 120000, "inFlightMs": 1000, "concurrency": 1 }
+  },
+  "vendors": {
+    "sina-quote":              { "kind": "quote",        "priority": 1, "enabled": true },
+    "tencent-quote":           { "kind": "quote",        "priority": 2, "enabled": false },
+    "eastmoney-kline":         { "kind": "kline",        "priority": 1, "enabled": true },
+    "tencent-kline":           { "kind": "kline",        "priority": 2, "enabled": false },
+    "eastmoney-market":        { "kind": "market",       "priority": 1, "enabled": true },
+    "eastmoney-funds":         { "kind": "funds",        "priority": 1, "enabled": true },
+    "eastmoney-search":        { "kind": "news",         "priority": 1, "enabled": true },
+    "xueqiu-news":             { "kind": "news",         "priority": 2, "enabled": true },
+    "eastmoney-announcement":  { "kind": "announcement", "priority": 1, "enabled": true },
+    "eastmoney-flash":         { "kind": "flash",        "priority": 1, "enabled": true },
+    "cls-flash":               { "kind": "flash",        "priority": 2, "enabled": true }
+  }
+}
